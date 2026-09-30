@@ -1,0 +1,30 @@
+{
+ "version": 0,
+ "next_id": 3,
+ "transactions": [
+  {
+   "id": 0,
+   "type": "income",
+   "amount": 30000,
+   "category": "食費",
+   "memo": "",
+   "date": "2026/09/30"
+  },
+  {
+   "id": 1,
+   "type": "expense",
+   "amount": 3000,
+   "category": "雑費",
+   "memo": "",
+   "date": "2026-09-30"
+  },
+  {
+   "id": 2,
+   "type": "income",
+   "amount": 500000,
+   "category": "臨時収入",
+   "memo": "",
+   "date": "2026-09-30"
+  }
+ ]
+}
